@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CoffeeShopGraphqlAPI",
+    "\\CoffeeShopGraphqlAPI\\Interfaces",
+    "\\CoffeeShopGraphqlAPI\\Model",
+    "\\CoffeeShopGraphqlAPI\\Mutation",
+    "\\CoffeeShopGraphqlAPI\\Properties",
+    "\\CoffeeShopGraphqlAPI\\Query"
+  ],
+  "PreviewInSolutionExplorer": false
+}
